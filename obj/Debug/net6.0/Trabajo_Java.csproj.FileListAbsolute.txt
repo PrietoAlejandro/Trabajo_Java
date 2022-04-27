@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\bin\Debug\net6.0\Trabajo_Java.exe
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\bin\Debug\net6.0\Trabajo_Java.deps.json
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\bin\Debug\net6.0\Trabajo_Java.runtimeconfig.json
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\bin\Debug\net6.0\Trabajo_Java.dll
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\bin\Debug\net6.0\Trabajo_Java.pdb
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.dll
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\refint\Trabajo_Java.dll
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.pdb
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\Trabajo_Java.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Trabajo #C\Trabajo_Java\obj\Debug\net6.0\ref\Trabajo_Java.dll
