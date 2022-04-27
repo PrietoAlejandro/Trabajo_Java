@@ -329,7 +329,7 @@ namespace Trabajo_Java
             num1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese segundo numero: ");
             num2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese tercer numero: ");
+            Console.WriteLine("Ingrese tercer numero:  ");
             num3 = int.Parse(Console.ReadLine());
             if (num1 >= num2 && num1 >= num3)
             {
@@ -353,7 +353,7 @@ namespace Trabajo_Java
             }
             else if (num3 <= num1 && num3 <= num2)
             {
-                Console.WriteLine("El numero me es: " + num3);
+                Console.WriteLine("El numero menor es: " + num3);
             }
         }
     }
